@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @krzychmich (Krzysztof Michniewicz)
-- 🌱 I’m currently learning computer vision related stuff
-- 💞️ I’m looking to collaborate on topics related to above mentioned
+- 🌱 I’m C++ developer currently learning computer vision stuff
 - 📫 How to reach me: michnic120@gmail.com
 
 <!---
